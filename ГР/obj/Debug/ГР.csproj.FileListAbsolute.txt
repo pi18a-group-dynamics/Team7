@@ -1,0 +1,11 @@
+c:\users\kolya\documents\visual studio 2015\Projects\ГР\ГР\bin\Debug\ГР.exe.config
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\bin\Debug\ГР.exe
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\bin\Debug\ГР.pdb
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.csprojResolveAssemblyReference.cache
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.Form1.resources
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.Form2.resources
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.Form3.resources
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.Properties.Resources.resources
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.csproj.GenerateResource.Cache
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.exe
+C:\Users\kolya\documents\visual studio 2015\Projects\ГР\ГР\obj\Debug\ГР.pdb
